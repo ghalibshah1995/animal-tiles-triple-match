@@ -1,0 +1,5 @@
+v1.0.1
+Editor layour redraw bugfix
+
+v1.0
+Release
